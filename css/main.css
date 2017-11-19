@@ -80,17 +80,16 @@ textarea {
 
 
     body{
-        font-family: 'Open Sans', sans-serif;
-
+        font-family: "Open Sans", sans-serif;
     }
 
-    header{
+    .main-header{
         padding-bottom: 15px;
         border-bottom: 4px solid #7d97ad;;
     }
 
     .logo{
-        margin-top:20px;
+        margin-top: 20px;
     }
 
     .author{
@@ -113,16 +112,16 @@ textarea {
     }
 
     .banner{
-        height:350px;
-        margin:20px 0px;
+        height: 350px;
+        margin: 20px 0px;
         background: url("../img/tools-html-coding.jpg");
-        background-size:cover;
+        background-size: cover;
     }
 
     .featured-work h1{
         text-transform: capitalize;
         font-weight: 400;
-        color:#7d97ad;
+        color: #7d97ad;
     }
 
     .portfolio{
@@ -130,7 +129,7 @@ textarea {
     }
 
     .portfolio h2{
-        color:#2d3c49;
+        color: #2d3c49;
         text-transform: uppercase;
     }
 
@@ -139,8 +138,7 @@ textarea {
     }
 
     .portfolio img{
-        height:250px;
-        max-width:100%;
+        max-width: 100%;
     }
 
 
